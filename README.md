@@ -45,7 +45,7 @@ so you can use your helper from common code.
 ## Features
 - Access to Create and all of its dependencies on both loaders
 - Mojang Mappings base, with Quilt Mappings and Parchment providing Javadoc and parameters
-- QuiltFlower decompiler for high quality Minecraft sources: `gradlew genSourcesWithQuiltflower`
+- VineFlower decompiler for high quality Minecraft sources: `gradlew genSourcesWithVineflower`
 - GitHub Actions automatic build workflow
 - Machete Gradle plugin to shrink jar file sizes
 - Developer QOL: Mod Menu, LazyDFU, JEI
